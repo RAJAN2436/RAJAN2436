@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan Sharma</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1ZG1jNWlzbHJ5bXk2ODRxbDNhczBmZ3I5emFqbWhlYzdybGMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1ZG1jNWlzbHJ5bXk2ODRxbDNhczBmZ3I5emFqbWhlYzdybGMzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **Bachelor's Computer Application in Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://mrajansharma.vercel.app/](https://mrajansharma.vercel.app/)
