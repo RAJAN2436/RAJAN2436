@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Rajan Sharma</h1>
 <h3>A passionate AI developer from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNnbWM0eDUyZWg1ZTh4OTlzbHVkZm91N2Y2YjB0MzN6aG83cmpnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB1ZDdiOWJuZmIzNHI3cWQ1ZHowbGY3emw1eDM2cDUxbmFxYXVkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif">
 
 🌱 I’m currently learning **Bachelor's Computer Application in Artificial Intelligence**
 
