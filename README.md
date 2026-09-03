@@ -54,7 +54,6 @@ A passionate Full-Stack Web Developer and Artificial Intelligence student pursui
 
 ### 📊 GitHub Stats & Advanced Graphs
 
-*Replace `RAJAN2436` with your actual GitHub username to activate the live graphs.*
 
 <div align="center">
 
