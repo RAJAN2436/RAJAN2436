@@ -54,13 +54,13 @@ A passionate Full-Stack Web Developer and Artificial Intelligence student pursui
 
 ### 📊 GitHub Stats & Advanced Graphs
 
-*Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to activate the live graphs.*
+*Replace `RAJAN2436` with your actual GitHub username to activate the live graphs.*
 
 <div align="center">
   
   <!-- Profile Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RAJAN2436&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Rajon's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RAJAN2436&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Rajan's Trophies" />
   </a>
   <br><br>
 
