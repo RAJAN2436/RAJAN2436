@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rajon+👋;Full-Stack+Developer+%7C+AI+Enthusiast;Founder+at+StackLabs" alt="Typing SVG" />
 </div>
 
-A passionate Full-Stack Web Developer and Artificial Intelligence student pursuing a BCA in AI at Invertis University[cite: 1]. I specialize in building scalable web applications, integrating machine learning models, and exploring the intersection of modern front-end frameworks and data-driven backends. I also run **StackLabs**, a web development agency creating custom digital solutions for commercial businesses and educational institutions.
+A passionate Full-Stack Web Developer and Artificial Intelligence student pursuing a BCA in AI at Invertis University. I specialize in building scalable web applications, integrating machine learning models, and exploring the intersection of modern front-end frameworks and data-driven backends. I also run **StackLabs**, a web development agency creating custom digital solutions for commercial businesses and educational institutions.
 
 ### 🚀 About Me
 
