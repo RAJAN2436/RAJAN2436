@@ -61,12 +61,6 @@ A passionate Full-Stack Web Developer and Artificial Intelligence student pursui
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJAN2436&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
   <br><br>
 
-  <!-- Contribution Graph (Advanced) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJAN2436&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
 
 ### 🤝 Connect with Me
 
