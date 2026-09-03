@@ -6,25 +6,25 @@ A passionate Full-Stack Web Developer and Artificial Intelligence student pursui
 
 ### 🚀 About Me
 
-*   🎓 Currently pursuing my **BCA in Artificial Intelligence** at Invertis University with a 7.2 CGPA[cite: 1].
-*   💼 Working as a **Full-Stack Developer** at INVERTISPREP, building React and Node.js applications[cite: 1].
-*   🤖 Previously an **AI Engineer Intern** at CODEC TECHNOLOGIES, working with LLM Transformer architectures[cite: 1].
+*   🎓 Currently pursuing my **BCA in Artificial Intelligence** at Invertis University with a 7.2 CGPA.
+*   💼 Working as a **Full-Stack Developer** at INVERTISPREP, building React and Node.js applications.
+*   🤖 Previously an **AI Engineer Intern** at CODEC TECHNOLOGIES, working with LLM Transformer architectures.
 *   🏢 Founder of **StackLabs**, delivering tailored website solutions for schools, colleges, and commercial clients.
-*   🏆 Certified in **Oracle Cloud Infrastructure 2025 Generative AI Professional**, **AI Skills Passport by EY & Microsoft**, and **LLM For Young Developers by Ducat**[cite: 1].
-*   💻 Building robust applications like a **Real-Time GPS Bus Tracker** and the **Alumni Lux Management Platform**[cite: 1].
+*   🏆 Certified in **Oracle Cloud Infrastructure 2025 Generative AI Professional**, **AI Skills Passport by EY & Microsoft**, and **LLM For Young Developers by Ducat**.
+*   💻 Building robust applications like a **Real-Time GPS Bus Tracker** and the **Alumni Lux Management Platform**.
 *   🌱 Deep-diving into **Machine Learning Engineering**, exploring model evaluation, feature engineering, and data analysis using Python and Pandas.
-*   📫 How to reach me: **rajanstackdev@gmail.com** | **rajansharma243641@gmail.com**[cite: 1]
+*   📫 How to reach me: **rajanstackdev@gmail.com** | **rajansharma243641@gmail.com**
 
 ---
 
 ### 💼 Experience
 
-*   **Full-Stack Developer @ INVERTISPREP** (2026-Present)[cite: 1]
-    *   Develop and maintain full-stack web applications using React.js, Node.js, Express.js, and MongoDB[cite: 1].
-    *   Design and manage databases using Mongoose, implementing authentication and secure API workflows[cite: 1].
-*   **AI Engineer Intern @ CODEC TECHNOLOGIES** (2025-2026)[cite: 1]
-    *   Implemented LLM Transformer architectures, reducing model understanding time by 40%[cite: 1].
-    *   Built and deployed scalable AI solutions and ML pipelines using Python[cite: 1].
+*   **Full-Stack Developer @ INVERTISPREP** (2026-Present).
+    *   Develop and maintain full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
+    *   Design and manage databases using Mongoose, implementing authentication and secure API workflows.
+*   **AI Engineer Intern @ CODEC TECHNOLOGIES** (2025-2026).
+    *   Implemented LLM Transformer architectures, reducing model understanding time by 40%.
+    *   Built and deployed scalable AI solutions and ML pipelines using Python.
 
 ---
 
@@ -46,9 +46,9 @@ A passionate Full-Stack Web Developer and Artificial Intelligence student pursui
 
 ### 📂 Featured Projects
 
-*   **Bus Tracker:** Built cross-platform mobile and web interfaces with real-time GPS tracking, improving passenger wait-time estimation by 70%[cite: 1].
+*   **Bus Tracker:** Built cross-platform mobile and web interfaces with real-time GPS tracking, improving passenger wait-time estimation by 70%.
 *   **Alumni Lux:** Engineered a centralized, full-stack digital platform for managing alumni records and engagement[cite: 1].
-*   **Portfolio Website:** Designed and deployed a fully responsive personal portfolio achieving a 95+ Lighthouse performance score on Vercel[cite: 1].
+*   **Portfolio Website:** Designed and deployed a fully responsive personal portfolio achieving a 95+ Lighthouse performance score on Vercel.
 
 ---
 
