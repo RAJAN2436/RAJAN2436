@@ -57,10 +57,6 @@ A passionate Full-Stack Web Developer and Artificial Intelligence student pursui
 *Replace `RAJAN2436` with your actual GitHub username to activate the live graphs.*
 
 <div align="center">
-    <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJAN2436&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAN2436&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <br><br>
 
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJAN2436&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
