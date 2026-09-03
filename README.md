@@ -57,14 +57,7 @@ A passionate Full-Stack Web Developer and Artificial Intelligence student pursui
 *Replace `RAJAN2436` with your actual GitHub username to activate the live graphs.*
 
 <div align="center">
-  
-  <!-- Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RAJAN2436&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Rajan's Trophies" />
-  </a>
-  <br><br>
-
-  <!-- GitHub Stats & Top Languages -->
+    <!-- GitHub Stats & Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=RAJAN2436&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJAN2436&layout=compact&theme=radical&hide_border=true" width="48%" />
   <br><br>
